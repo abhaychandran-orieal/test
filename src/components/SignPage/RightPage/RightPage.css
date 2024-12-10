@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+    
+}
+.right-containers{
+    width: 700px;
+    height: 850px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+    left: 780px;
+    top: 20px;
+    
+   
+}
+
+.signup-image img {
+    height: 830px; 
+    border-radius: 8px; 
+    width: 700px
+    
+}

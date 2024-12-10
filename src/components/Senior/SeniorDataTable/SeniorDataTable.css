@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+  
+  }
+  
+  .senior-container {
+    display: flex;
+    width: 1252px;
+    height: 1029px;
+    left: 215px;
+    gap: 10px;
+    opacity: 0px;
+    position: absolute;
+    top: 170px;
+  
+  
+  
+  }
+  
+  .senior-table {
+  
+  
+    left: 0;
+    text-align: left;
+    width: 1252px;
+    height: 900px;
+  
+  }
+  
+  .senior-header {
+  
+    width: 1252px;
+    height: 40px;
+    top: 150px;
+    gap: 0px;
+    opacity: 0px;
+    
+    background-color: #F4F7FE;
+  
+  }
+  
+  .senior-title {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #141736;
+  
+  }
+  
+  .user-checkbox {
+    width: 15px;
+    height: 40px;
+    padding: 10px 8px 10px 8px;
+    gap: 8px;
+    opacity: 0px;
+  
+  }
+  
+  .snior-data {
+  
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: left;
+    width: 880px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    overflow: hidden;
+    border: none;
+  
+  }
+  
+  .senior-status {
+    width: 200px;
+    height: 35px;
+    padding: 0px 15px 0px 15px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+  
+  }
+  
+  .senior-blocked {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #ffdddd;
+    color: #1D2433;
+    border-radius: 4px;
+  
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+  }

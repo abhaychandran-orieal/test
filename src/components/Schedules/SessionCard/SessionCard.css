@@ -1,0 +1,384 @@
+body{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+}
+.session {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 600px;
+    height: 510px;
+    top: 180px;
+    left: 195px;
+    gap: 17px;
+    opacity: 0px;
+    position: absolute;
+    
+
+    
+}
+
+.session-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    height: 319px;
+    gap: 21px;
+    opacity: 0px;
+    position:absolute;
+
+    
+
+}
+.session-profile{
+    display: flex;
+    width: 285px;
+    height: 319px;
+    border-radius: 19px 19px 19px 19px;
+    opacity: 0px;
+    position:absolute;
+    background-color:#F6F6F6;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    
+    
+
+}
+.profile-img{
+    width: 106px;
+    height: 106px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+    left: 90px;
+    top: 70px;
+} 
+.profile-name{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 415px;
+    letter-spacing: -0.02em;
+    align-items: center;
+    text-align: center;
+    color: #2B3674;
+
+}
+.session-meeting{
+    display: flex;
+    width: 295px;
+    height: 319px;
+    border-radius: 19px 19px 19px 19px;
+    justify-content: space-between;
+    opacity: 0px;
+    background-color:#F6F6F6;
+    position: absolute;
+    left: 305px;
+    flex-direction: column;
+
+}
+.meeting-title{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 130px;
+    letter-spacing: -0.02em;
+    text-align: right;
+    color: #2B3674;
+    text-align: center;
+
+}
+.meeting-icon{
+    width: 84px;
+    height: 84px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+    top: 90px;
+    left: 105px;
+
+}
+.copy-icon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+    top:185px;
+    left:140px
+
+}
+.meeting-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: -0.06em;
+    text-align: center;
+    color: #2B3674;
+    position: absolute;
+    left: 20px;
+    top: 185px;
+
+}
+.session-info{
+    display: flex;
+    width:600px;
+    height: 174px;
+    gap: 20px;
+    opacity: 0px;
+    position: absolute;
+    left: 0px;
+    top:330px
+
+}
+.session-junior{
+    display: flex;
+    width: 118px;
+    height: 20px;
+    gap: 20px;
+    opacity: 0px;
+
+}
+.profile-junior{
+  
+    
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 10px;
+    text-align: left;
+    color: #1D2433;
+    position: absolute;
+    left: 10px;
+    top: -10px;
+   
+}
+.session-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 360px;
+    height: 60px;
+    gap: 8px;
+    opacity: 0px;
+    position:absolute;
+    top: 30px;
+    left: 10px;
+    
+
+
+    
+}
+  
+    
+.action-btn{
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 140px;
+    height: 35px;
+    padding: 0px 15px 0px 8px;
+    gap: 10px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background-color: #EEEEF3;
+    
+
+
+}
+.reschedule-btn{
+    display: flex;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position:absolute;
+    left: 30px;
+    border: none; 
+    overflow: hidden; 
+    letter-spacing: -0.02em;
+    align-items: right;
+    color:#3B3B3B;
+
+
+}
+
+
+.session-cancel {
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 120px;
+    height: 35px;
+    padding: 0px 15px 0px 0px;
+    gap: 10px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    border: 1px solid #000000;
+    background-color: white;
+    
+
+}
+.cancel-btn{
+    display: flex;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position:absolute;
+    text-align: right;
+    left: 190px;
+    border: none; 
+    overflow: hidden; 
+    color: #3B3B3B;
+    letter-spacing: -0.02em;
+    background-color: white;
+    
+    
+    
+    
+}
+.button-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+    
+}
+.session-details{
+    display: flex;
+    flex-direction: row;
+    width: 418px;
+    height: 24px;
+    gap: 20px;
+    opacity: 0px;
+    position: absolute;
+    top: 90px;
+    left:10px;
+    align-items: center;
+
+}
+.icon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+
+
+}
+.section-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #3B3B3B;
+    letter-spacing: -0.07em;  
+     
+
+
+  
+}
+.session-download{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 360px;
+    height: 60px;
+    gap: 5px;
+    opacity: 0px;
+    position:absolute;
+    top: 120px;
+    left: 10px;
+    
+
+
+}
+.upcoming{
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 70px;
+    height: 35px;
+    padding: 0px 15px 0px 8px;
+    gap: 10px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background-color: #EEEEF3;
+}
+.upcoming-btn{
+    display: flex;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position:absolute;
+    left: 15px;
+    border: none; 
+    overflow: hidden; 
+    letter-spacing: 0.01em;
+    align-items: right;
+    color:#3B3B3B;
+}
+.download{
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 145px;
+    height: 35px;
+    padding: 0px 15px 0px 0px;
+    gap: 10px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background-color: #525252;
+    
+}
+.download-btn{
+    display: flex;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position:absolute;
+    text-align: right;
+    left: 140px;
+    border: none; 
+    overflow: hidden; 
+    color: #3B3B3B;
+    letter-spacing: -0.01em;
+    background-color: #525252;
+    color: #FFFFFF;
+    
+    
+}
+.invoice-icon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    left:110px;
+    
+}
+
