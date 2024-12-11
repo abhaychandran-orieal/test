@@ -3,8 +3,8 @@ import './SeniorHeader.css'
 
 function SeniorHeader() {
   return (
-    <div className='senior-header'>
-       <div className='header-container'>
+    <div className='seniors-header'>
+       <div className='senior-header-container'>
           <div className='header-left'>
              <div className='title'>
                 <p className='header-title'>Admin /</p>
