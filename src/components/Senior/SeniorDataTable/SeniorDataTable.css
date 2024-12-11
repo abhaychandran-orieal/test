@@ -14,30 +14,27 @@ body {
     opacity: 0px;
     position: absolute;
     top: 170px;
-  
-  
+
   
   }
   
   .senior-table {
-  
-  
     left: 0;
-    text-align: left;
+    text-align: center;
     width: 1252px;
     height: 900px;
+    
   
   }
   
-  .senior-header {
-  
+  .senior-header { 
     width: 1252px;
     height: 40px;
     top: 150px;
     gap: 0px;
     opacity: 0px;
-    
     background-color: #F4F7FE;
+    
   
   }
   
@@ -46,7 +43,7 @@ body {
     font-weight: 400;
     line-height: 10px;
     letter-spacing: 0.02em;
-    text-align: left;
+    text-align: center;
     color: #141736;
   
   }
@@ -60,18 +57,18 @@ body {
   
   }
   
-  .snior-data {
+  .senior-data {
   
     font-size: 13px;
     font-weight: 300;
     line-height: 20px;
-    text-align: left;
+    text-align: center;
     width: 880px;
     height: 20px;
-    gap: 0px;
     opacity: 0px;
     overflow: hidden;
     border: none;
+    
   
   }
   
@@ -91,7 +88,6 @@ body {
     background-color: #ffdddd;
     color: #1D2433;
     border-radius: 4px;
-  
     text-align: center;
     font-size: 14px;
     font-weight: 400;
