@@ -1,0 +1,385 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+.userschart{
+    width: 1266px;
+    height: 435px;
+    position: relative;
+    top: 300px;
+    left: 200px;
+    
+    
+}
+.users-graph{
+   width: 620px;
+    height:435px; 
+    border-radius: 15px 15px 15px 15px;
+}
+.pending-requests{
+    width: 295px;
+    height: 430px;
+    position: relative;
+    left: 650px;
+    bottom: 425px;
+   
+    
+    
+}
+.requests-title{
+    width: 230px;
+    height: 48px;
+   
+    
+    
+     
+}
+.request-heading{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    text-align: center;
+    color:#2B3674;
+    
+    
+}
+.requests-details{
+    width: 295px;
+    height: 60px;
+    
+    
+}
+.requestprof-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    position: relative;
+    left: 25px;
+    
+}
+.requester-name{
+    height: 15px;
+    width:90px;
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    
+ 
+}
+.requested-catagory1{
+    height: 20px;
+    width: 50px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 165px;
+    color:#1D2433;
+    background-color:#F5F5F6;
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+.requested-catagory2{
+    height: 20px;
+    width: 50px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 130px;
+    color:#1D2433;
+    border: 2px dotted #A1A1A1;
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+.requested-catagory3{
+    height: 20px;
+    width: 55px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 120px;
+    color:#1D2433;
+    background-color:#F5F5F6;
+    padding-left: 15px;
+    border-radius: 10px;
+
+}
+.requested-catagory4{
+    height: 10px;
+    width: 50px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 140px;
+    color:#1D2433;
+    border: 2px dotted #A1A1A1;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+}
+.requested-catagory5{
+    height: 20px;
+    width: 45px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 155px;
+    color:#1D2433;
+    border: 2px dotted #A1A1A1;
+    padding-left: 5px;
+    border-radius: 10px;
+
+}
+.requested-catagory6{
+    height: 20px;
+    width: 50px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    bottom: 79px;
+    left: 150px;
+    color:#1D2433;
+    background-color:#F5F5F6;
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.requested-date1{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 113px;
+    left: 235px;
+    color:#8F8F8F;
+ 
+}
+.requested-date2{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 113px;
+    left: 205px;
+    color:#8F8F8F;
+ 
+}
+.requested-date3{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 113px;
+    left: 200px;
+    color:#8F8F8F;
+ 
+}
+.requested-date4{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 115px;
+    left: 210px;
+    color:#8F8F8F;
+ 
+}
+.requested-date5{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 113px;
+    left: 215px;
+    color:#8F8F8F;
+ 
+}
+.requested-date6{
+    height: 15px;
+    width: 65px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 113px;
+    left: 220px;
+    color:#8F8F8F;
+ 
+}
+.notifications-card{
+    width: 300px;
+    height: 429px;
+    border-radius: 15px 15px 15px 15px;
+    opacity: 0px;
+    background-color: #F9F9FA;
+    position: relative;
+    left: 975px;
+    bottom: 905px;
+
+}
+.notifications-title{
+    width: 248px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #2B3674;
+    position: relative;
+    left: 20px;
+    top: 30px;
+   
+    
+    
+        
+}
+.notifications-header{
+    width: 200px;
+    height:30px;
+    gap: 8px;
+    opacity: 0px;
+    position: relative;
+    top: 50px;
+    
+}
+.notification-btn{
+    width: 43px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    left: 25px;
+   bottom: 10px;
+    
+    
+    
+}
+.notification-icons1{
+    width: 18px;
+    height: 18px;
+    background:  #E6F1FD;
+    position: relative;
+    left: 23px;
+    padding: 5px;
+    border-radius:10px;
+
+     
+}
+.notification-icons2{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 30px;
+    bottom: 2px;
+}
+.messages-textbar{
+    width: 210px;
+    height: 100px;
+    padding: 17px 15px 17px 15px;
+    position: relative;
+    left: 30px;
+    border-radius: 20px;
+    border: 2px solid #A3AED0;
+    
+}
+.notifications-messages{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #A3AED0;
+    position: relative;
+    bottom: 15px;
+
+    
+}
+.footer-btn{
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 75px;
+    top: 10px; 
+     
+}
+.message-btn{
+    width: 92px;
+    height: 40px;
+    border-radius: 12px 12px 12px 12px;
+    position: relative;
+    left: 105px;
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    border: none;
+    
+   
+    
+}
+
+
+
+

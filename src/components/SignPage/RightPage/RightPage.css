@@ -6,21 +6,26 @@ body{
     
 }
 .right-containers{
-    width: 700px;
-    height: 850px;
+    width: 600px;
+    height: 860px;
     gap: 0px;
     opacity: 0px;
     display: flex;
-    position: absolute;
-    left: 780px;
-    top: 20px;
+    position: relative;
+    left: 850px;
+    top: 10px;
+    
+    
+    
     
    
 }
 
 .signup-image img {
-    height: 830px; 
+    height: 710px; 
     border-radius: 8px; 
-    width: 700px
+    width: 650px;
+    position: fixed;
+    
     
 }

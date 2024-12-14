@@ -19,7 +19,7 @@ function SideBar() {
            </div>
            <div class="menu-item">
                <img src="sidebar-icon3.png" alt="senior-Icon" class="icons"/>
-               <h3>Senior</h3>
+               <h3>Seniors</h3>
            </div>
            <div class="menu-item">
                <img src="sidebar-icon4.png" alt="schedules-Icon" class="icons"/>

@@ -1,3 +1,4 @@
+/* Reset styles */
 body {
     margin: 0;
     padding: 0;
@@ -5,10 +6,9 @@ body {
     
   }
   
-  .sidebar {
+  .dashboard-sidebar {
     width: 186px;
     height: 100vh;
-    top: 0px;
     gap: 0px;
     border: 0px 1px 0px 0px;
     opacity: 0px;  
@@ -19,7 +19,12 @@ body {
     padding: 20px;
     box-sizing: border-box;
     position: fixed;
+    top: 0px;
     
+    
+    
+  
+  
     
   
   }
@@ -87,10 +92,7 @@ body {
     line-height: 45px;
     letter-spacing: -0.02em;
     text-align: left;
-    
-    
-  
-  
+
   }
   
   .menu-item:hover h3 {

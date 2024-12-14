@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:poppins;
+}
+.databar{
+    display: flex;
+    width: 1272px;
+    height:112px;
+    gap: 28px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    position: scroll;
+    
+
+}
+.website-views{
+    width: 297px;
+    height:112px;
+    border-radius: 15px 15px 15px 15px;
+    background-color:#EDEEFC;
+    display: flex;
+    
+}
+.seniors-view{
+    width: 297px;
+    height:112px;
+    border-radius: 15px 15px 15px 15px;
+    background:  #E6F1FD;
+    display: flex;
+    
+    
+}
+.juniors-views{
+    width: 297px;
+    height:112px;
+    border-radius: 15px 15px 15px 15px;
+    background-color:#EDEEFC;
+    display: flex;
+    
+}
+.active-users-views{
+    width: 297px;
+    height:112px;
+    border-radius: 15px 15px 15px 15px;
+    background-color:  #E6F1FD;
+    display: flex;
+
+    
+}
+.databar-icon{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    padding-top: 18px;
+    padding-left: 50px;
+    right: 20px;
+    top: 55px;
+}
+.databar-title{
+    width:249px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    left: 25px; 
+    top: 15px; 
+    
+    
+}
+.databar-count{
+    width: 72px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    padding-top: 40px;
+    right: 105px;
+    
+ 
+}
+.databar-percentage{
+    width: 44px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    position: relative;
+    padding-top: 60px;
+    left: 20px;
+    
+
+}
