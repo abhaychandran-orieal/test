@@ -8,7 +8,7 @@ function NavBar() {
        <div className='header-left'>
           <div className='title'>
              <p className='header-title'>Admin /</p>
-             <h1 className='sub-titles' >Junior</h1>
+             <h1 className='sub-titles' >Juniors</h1>
           </div>
           <div className='search-bar'>
              <img src='logo1.png' alt='search' className='search-icon'/>
